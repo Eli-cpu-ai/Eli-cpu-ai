@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eli-cpu-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-cpu-ai&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="34" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eli-cpu-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-cpu-ai&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=true&order=2" height="270" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Eli-cpu-ai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
@@ -15,12 +15,6 @@
 
 ###
 
-
-<img src="https://raw.githubusercontent.com/Eli-cpu-ai/Eli-cpu-ai/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <h2 align="left">Olá sou estudante de programação<br>Gosto de aprender coisas novas</h2>
 
 ###
@@ -32,5 +26,9 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="33" alt="html5 logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Eli-cpu-ai/Eli-cpu-ai/output/snake.svg" alt="Snake animation" />
 
 ###
