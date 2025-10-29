@@ -15,9 +15,11 @@
 
 ###
 
+
 <img src="https://raw.githubusercontent.com/Eli-cpu-ai/Eli-cpu-ai/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 <h2 align="left">Olá sou estudante de programação<br>Gosto de aprender coisas novas</h2>
 
