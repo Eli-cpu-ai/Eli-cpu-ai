@@ -16,8 +16,10 @@ Elidio António,vivo em Gurué, Provincia da Zambézia Moçambique, apaixonado p
 </details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=elidioantonio&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=elidioantonio&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!-- GithubStats -->
 ![Eli=cpu-ai GitHub stats](https://github-readme-stats.vercel.app/api?username=Eli-cpu-ai&show_icons=true&theme=gotham)
